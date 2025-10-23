@@ -13,10 +13,6 @@
 - [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
 - [Model Building](#-model-building)
 - [Evaluation & Results](#-evaluation--results)
-- [Project Structure](#-project-structure)
-- [Future Improvements](#-future-improvements)
-- [Author](#-author)
-- [Acknowledgements](#-acknowledgements)
 
 ---
 
@@ -129,8 +125,6 @@ Dataset source: [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic/da
 | **Kaggle Public Leaderboard** | **0.86088** |
 
 ---
-
-### 📉 Confusion Matrix
  
 ### 📊 Classification Report
 
